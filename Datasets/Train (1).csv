@@ -1,0 +1,480 @@
+id,Technology,Experience,Eligible,Not_Eligible
+1,"Python,R,Deep Learning,Machine Learning",5,1,0
+2,"Python,R,Deep Learning,Machine Learning",1,1,0
+3,"Python,R,Data Analysis,Probability Theory",1,1,0
+4,"Python,R,Data Analysis,Probability Theory",1,1,0
+5,"Python,R,Data Analysis,Probability Theory",1,1,0
+6,"Python,R,Data Analysis,Probability Theory",1,1,0
+7,"Python,R,Data Analysis,Probability Theory,Big Data",1,1,0
+8,"Python,R,Data Analysis,Probability Theory,Predictive Analytics",1,1,0
+9,"Python,R,Data Analysis,Probability Theory,Time Series Forecasting",1,1,0
+10,"Java,SQL,Python,Data Analysis",4,1,0
+11,"Java,SQL,Python,Data Analysis",4,1,0
+12,"Java,SQL,Python,Data Analysis",4,1,0
+13,"C++,Matlab,Flight Dynamics,Control Systems",6,1,0
+14,"Matlab,Power Electronics,Control Systems,Digital Signal Processing",1,1,0
+15,"Matlab,C++,Embedded Systems,Signals and Systems",2,1,0
+16,"Matlab,C++,Embedded Systems,Signals and Systems",2,1,0
+17,"Java,SQL,Web Development,Database Administration",2,1,0
+18,"Java,SQL,Web Development,Database Administration",2,1,0
+19,"Java,SQL,Web Development,Database Administration",2,1,0
+20,"HTML/CSS,JavaScript,Frontend Development,Data Visualization",4,1,0
+21,"C++,Digital Logic,FPGA,Embedded Systems",5,1,0
+22,"C++,Digital Logic,FPGA,Embedded Systems",6,1,0
+23,"C, C++, Java",0,0,1
+24,"Matlab,C++,Embedded Systems,Control Systems",3,1,0
+25,"Java, C++, SQL",0,0,1
+26,"Java, C++, SQL",0,0,1
+27,"Java, C++, SQL",0,0,1
+28,"Java, C++, SQL",0,0,1
+29,"Java, C++, SQL",0,0,1
+30,"C, C++, Java",0,0,1
+31,"Java, C++, SQL",0,0,1
+32,"Java, C++, SQL",0,0,1
+33,"Java, C++, SQL",0,0,1
+34,"Java, C++, SQL",0,0,1
+35,"Java, C++, SQL",0,0,1
+36,"Python,Java,Data Analysis,Machine Learning",3,1,0
+37,"JavaScript,HTML/CSS,Frontend Development,Data Visualization",3,1,0
+38,"Python,Java,Data Analysis,Machine Learning",3,1,0
+39,"JavaScript,HTML/CSS,Frontend Development,Data Visualization",3,1,0
+40,"Python,R,Data Analysis,Machine Learning",4,1,0
+41,"Python, Java, SQL",0,0,1
+42,"Python,R,Deep Learning,Machine Learning",2,1,0
+43,"Python,R,Deep Learning,Machine Learning",2,1,0
+44,"Python,R,Deep Learning,Machine Learning",2,1,0
+45,"Python,R,Deep Learning,Machine Learning,Computer Vision",4,1,0
+46,"Python,R,Deep Learning,Machine Learning,Natural Language Generation",4,1,0
+47,"Python,R,Deep Learning,Machine Learning,Neural Networks",4,1,0
+48,"Python,R,Deep Learning,Machine Learning,Reinforcement Learning",4,1,0
+49,"Python,R,Probability Theory,Data Analysis,Bayesian Networks",6,1,0
+50,"Python,R,Deep Learning,Machine Learning,Data Analysis",6,1,0
+51,"Python,R,Data Analysis,Probability Theory,Graph Algorithms",1,1,0
+52,"Python,R,Data Analysis,Natural Language Processing",6,1,0
+53,"Python,R,Data Analysis,Time Series Analysis",6,1,0
+54,"Python,R,Probability Theory,Data Analysis,Time Series Econometrics",6,1,0
+55,"C++,Matlab,Embedded Systems,Control Systems",2,1,0
+56,"C++,Matlab,Embedded Systems,Control Systems",2,1,0
+57,"C++,Matlab,Embedded Systems,Control Systems",2,1,0
+58,"C++,Matlab,Embedded Systems,Control Systems",2,1,0
+59,"C++,Matlab,Control Systems,Embedded Systems",2,1,0
+60,"C++,Matlab,Power Electronics,Embedded Systems",2,1,0
+61,"C++,Matlab,Power Systems,Embedded Systems",2,1,0
+62,"C++,Matlab,Robotics,Embedded Systems",2,1,0
+63,"C++,Matlab,Signal Processing,Embedded Systems",2,1,0
+64,"C++,Java,Embedded Systems,FPGA",3,1,0
+65,"C, C++, Java",0,0,1
+66,"Python, Java, SQL",0,0,1
+67,"Java,SQL,Web Development,Database Administration",6,1,0
+68,"Java,SQL,Web Development,Database Administration",6,1,0
+69,"Java,SQL,Web Development,Database Administration",6,1,0
+70,"Java,SQL,Web Development,Database Administration",6,1,0
+71,"Python, Java, SQL",0,0,1
+72,"C, C++, Java",0,0,1
+73,"C, C++, Java",0,0,1
+74,"Java, C++, SQL",0,0,1
+75,"C, C++, Java",0,0,1
+76,"Java, C++, SQL",0,0,1
+77,"Java, Python, SQL",0,0,1
+78,"C, Java, SQL",0,0,1
+79,"C, Java, SQL",0,0,1
+80,"Java, C++, SQL",0,0,1
+81,"Java, C++, SQL",0,0,1
+82,"Java,SQL,Web Development,Database Administration,Cloud Computing",3,1,0
+83,"Java,SQL,Web Development,Database Administration,Cybersecurity",3,1,0
+84,"Java,SQL,Web Development,Database Administration,Database Management",3,1,0
+85,"Java,SQL,Web Development,Database Administration,Software Engineering",3,1,0
+86,"Java,SQL,Web Development,Database Administration,Software Project Management",3,1,0
+87,"Python,R,Data Analysis,Probability Theory",6,1,0
+88,"Python,R,Data Analysis,Probability Theory",5,1,0
+89,"Python,R,Data Analysis,Probability Theory",4,1,0
+90,"Python,R,Data Analysis,Probability Theory",3,1,0
+91,"Python,R,Data Analysis,Probability Theory",5,1,0
+92,"Python,R,Data Analysis,Probability Theory",5,1,0
+93,"C, C++, Java",0,0,1
+94,"C, C++, Java",0,0,1
+95,"C, C++, Java",0,0,1
+96,"Python,R,Cryptography,Probability Theory",5,1,0
+97,"Python,R,Probability Theory,Mathematics,Fractal Analysis",5,1,0
+98,"Python,R,Probability Theory,Game Theory,Data Analysis",5,1,0
+99,"Python,R,Probability Theory,Optimization,Data Analysis",5,1,0
+100,"Python,R,Probability Theory,Statistics,Data Analysis",5,1,0
+101,"C, C++, Java",0,0,1
+102,"C, C++, Java",0,0,1
+103,"Python,R,Data Analysis,Theoretical Physics",3,1,0
+104,"Python,R,Data Analysis,Theoretical Physics",5,1,0
+105,"Python,R,Data Analysis,Theoretical Physics",3,1,0
+106,"C++,Matlab,Embedded Systems,Control Systems",2,1,0
+107,"Java, C++, SQL",0,0,1
+108,"Java, C++, SQL",0,0,1
+109,"Python, Java, SQL",0,0,1
+110,"Python, Java, SQL",0,0,1
+111,"Python, Java, SQL",0,0,1
+112,"Python, Java, SQL",0,0,1
+113,"C++, Python, SQL",0,0,1
+114,"Python, Java, SQL",0,0,1
+115,"Python, Java, SQL",0,0,1
+116,"Python, Java, SQL",0,0,1
+117,"Python, Java, SQL",0,0,1
+118,"Python, Java, SQL",0,0,1
+119,"Python, Java, SQL",0,0,1
+120,"Python, Java, SQL",0,0,1
+121,"Python, Java, SQL",0,0,1
+122,"Python, Java, SQL",0,0,1
+123,"Java, C++, SQL",0,0,1
+124,"Java, C++, SQL",0,0,1
+125,"Latex,Mathematica,Linear Algebra,Probability Theory",3,1,0
+126,"Latex,Mathematica,Linear Algebra,Probability Theory",3,1,0
+127,"Python, Java, SQL",0,0,1
+128,"Latex,R,Probability Theory,Statistics",5,1,0
+129,"NumPy,Matplotlib,Theoretical Physics,Data Analysis",1,1,0
+130,"NumPy,Matplotlib,Theoretical Physics,Data Analysis",1,1,0
+131,"NumPy,Matplotlib,Theoretical Physics,Data Analysis",1,1,0
+132,"NumPy,Matplotlib,Theoretical Physics,Data Analysis",1,1,0
+133,"Matplotlib,NumPy,Theoretical Physics,Astrophysics",1,1,0
+134,"R,SAS,Statistical Analysis,Machine Learning",4,1,0
+135,"R,SAS,Statistical Analysis,Machine Learning",4,1,0
+136,"R,SAS,Statistical Analysis,Machine Learning",4,1,0
+137,"QuickBooks, Excel",0,0,1
+138,"CAD, SolidWorks",0,0,1
+139,"Blender, Maya",0,0,1
+140,"Excel, Power BI",0,0,1
+141,"R, Python",0,0,1
+142,"Python, TensorFlow",0,0,1
+143,"LabVIEW, MATLAB",0,0,1
+144,"R, Python",0,0,1
+145,"Excel, Power BI",0,0,1
+146,"Salesforce, Google Analytics",0,0,1
+147,"LabVIEW, MATLAB",0,0,1
+148,"Revit, AutoCAD",0,0,1
+149,"C#, .NET, Entity Framework",4,1,0
+150,"Java, Spring, Hibernate, Kotlin",4,1,0
+151,"Java, Spring, Hibernate, Kotlin",4,1,0
+152,"Java, Spring, Hibernate, Kotlin",4,1,0
+153,"C#, .NET Core",2,1,0
+154,"C++, Qt",2,1,0
+155,"C++, OpenCV",2,1,0
+156,"C++, Qt",2,1,0
+157,"C++, OpenCV",2,1,0
+158,"MATLAB, Simulink",1,1,0
+159,"R, SQL",2,1,0
+160,"Java, Spring",1,1,0
+161,"3D Modeling, Augmented Reality",0,0,1
+162,"Python, TensorFlow, Keras",2,1,0
+163,"Ruby, Ruby on Rails, SQLite3",5,1,0
+164,"Java, Spring, Hibernate",3,1,0
+165,"Python, TensorFlow, Keras",4,1,0
+166,"Ruby, Ruby on Rails, SQLite3",2,1,0
+167,"Java, Spring, Hibernate",4,1,0
+168,"Python, TensorFlow, Keras",4,1,0
+169,"Ruby, Ruby on Rails, SQLite3",2,1,0
+170,"Java, Spring, Hibernate",4,1,0
+171,"Python, TensorFlow, Keras",4,1,0
+172,"Ruby, Ruby on Rails, SQLite3",2,1,0
+173,"Java, Spring, Hibernate",5,1,0
+174,"Ruby, Ruby on Rails, SQLite3",3,1,0
+175,"Python, TensorFlow, Keras",6,1,0
+176,"Ruby, Ruby on Rails, SQLite3",3,1,0
+177,"Python, TensorFlow, Keras",6,1,0
+178,"Ruby, Ruby on Rails, SQLite3",3,1,0
+179,"Python, TensorFlow, Keras",6,1,0
+180,"Ruby, Ruby on Rails, SQLite3",3,1,0
+181,"Python, TensorFlow, Keras",6,1,0
+182,"Ruby, Ruby on Rails, SQLite3",3,1,0
+183,"Python, TensorFlow, Keras",6,1,0
+184,"Ruby, Ruby on Rails, SQLite3",3,1,0
+185,"Python, TensorFlow, Keras",6,1,0
+186,"Ruby, Ruby on Rails, SQLite3",3,1,0
+187,"Ruby, Ruby on Rails, SQLite3",3,1,0
+188,"Python, TensorFlow, Keras, SQL",6,1,0
+189,"Java, Spring, Hibernate, Kotlin",3,1,0
+190,"Python, TensorFlow, Keras, SQL",6,1,0
+191,"Ruby, Ruby on Rails, SQLite3",3,1,0
+192,"Python, TensorFlow, Keras, SQL",6,1,0
+193,"Ruby, Ruby on Rails, SQLite3",3,1,0
+194,"Java, Spring, Hibernate, Kotlin",3,1,0
+195,"Python, TensorFlow, Keras, SQL",3,1,0
+196,"Java, Spring Framework",2,1,0
+197,"Java, Hibernate",2,1,0
+198,"Java, JDBC",2,1,0
+199,"Java, Hibernate",2,1,0
+200,"Python, Django",1,1,0
+201,"MATLAB, Simulink",1,1,0
+202,"Python, Django",0,0,1
+203,"Python, Java",0,0,1
+204,"Java, C++",0,0,1
+205,"R, SQL",1,1,0
+206,"Python, Flask",1,1,0
+207,"Java, Spring",1,1,0
+208,"Python, Flask",1,1,0
+209,"Java, Spring Boot",2,1,0
+210,"Python, Flask",1,1,0
+211,"Python, Flask",1,1,0
+212,"R, SQL",1,1,0
+213,"Python, Flask",1,1,0
+214,"HTML, CSS, JavaScript",2,1,0
+215,"HTML, CSS, JavaScript",2,1,0
+216,"Python, Flask, PostgreSQL",2,1,0
+217,"C++, OpenCV, OpenGL",2,1,0
+218,"C++, OpenCV, OpenGL",2,1,0
+219,"Python, Django, PostgreSQL",3,1,0
+220,"Python, Django, PostgreSQL",3,1,0
+221,"Python, Django, PostgreSQL",3,1,0
+222,"Java, Spring Boot, MongoDB",3,1,0
+223,"Java, Hibernate, PostgreSQL",3,1,0
+224,"Python, Flask, PostgreSQL",3,1,0
+225,"Python, Django, PostgreSQL",3,1,0
+226,"SQL, Oracle, Java",3,1,0
+227,"Python, Flask, PostgreSQL",3,1,0
+228,"Python, Django, PostgreSQL",3,1,0
+229,"C++, OpenCV, OpenGL",2,1,0
+230,"HTML, CSS, JavaScript",2,1,0
+231,"C++, Java, MATLAB",2,1,0
+232,"C++, Java, MATLAB",2,1,0
+233,"HTML, CSS, JavaScript",2,1,0
+234,"C++, OpenCV, OpenGL",2,1,0
+235,"C++, Java, MATLAB",2,1,0
+236,"Python, TensorFlow, Keras",1,1,0
+237,"Java, React, Node.js",1,1,0
+238,"Java, Spring Boot, MySQL",1,1,0
+239,"TensorFlow, PyTorch, Keras",1,1,0
+240,"Java, Spring Boot, MySQL",1,1,0
+241,"Java, React, Node.js",1,1,0
+242,"Java, Spring Boot, MySQL",1,1,0
+243,"Python, Flask, PostgreSQL",3,1,0
+244,"Python, Flask, PostgreSQL",3,1,0
+245,"HTML, CSS, JavaScript",2,1,0
+246,"HTML, CSS, JavaScript",2,1,0
+247,"C++, OpenCV, OpenGL",3,1,0
+248,"Java, React, Node.js",1,1,0
+249,"Python, Flask, PostgreSQL",3,1,0
+250,"Python, Flask, PostgreSQL",3,1,0
+251,"Python, Django, PostgreSQL",3,1,0
+252,"C++, Java, MATLAB",2,1,0
+253,"C++, OpenCV, OpenGL",2,1,0
+254,"C++, OpenCV, OpenGL",2,1,0
+255,"Python, Flask, PostgreSQL",3,1,0
+256,"Python, Django, PostgreSQL",3,1,0
+257,"SQL, Oracle, Java",3,1,0
+258,"Python, Flask, PostgreSQL",3,1,0
+259,"Python, Django, PostgreSQL",3,1,0
+260,"SQL, Oracle, Java",3,1,0
+261,"Python, Flask, PostgreSQL",3,1,0
+262,"Python, Django, PostgreSQL",3,1,0
+263,"SQL, Oracle, Java",3,1,0
+264,"Python, Flask, PostgreSQL",3,1,0
+265,"C++, OpenCV, OpenGL",2,1,0
+266,"C++, Java, MATLAB",2,1,0
+267,"HTML, CSS, JavaScript",2,1,0
+268,"C++, OpenCV, OpenGL",2,1,0
+269,"C++, Java, MATLAB",2,1,0
+270,"HTML, CSS, JavaScript",2,1,0
+271,"C++, OpenCV, OpenGL",2,1,0
+272,"C++, Java, MATLAB",2,1,0
+273,"HTML, CSS, JavaScript",2,1,0
+274,"C++, OpenCV, OpenGL",2,1,0
+275,"Java, React, Node.js",1,1,0
+276,"TensorFlow, PyTorch, Keras",1,1,0
+277,"Java, Spring Boot, MySQL",1,1,0
+278,"Java, React, Node.js",1,1,0
+279,"TensorFlow, PyTorch, Keras",1,1,0
+280,"Java, Spring Boot, MySQL",1,1,0
+281,"Java, React, Node.js",1,1,0
+282,"TensorFlow, PyTorch, Keras",1,1,0
+283,"Java, Spring Boot, MySQL",1,1,0
+284,"Java, React, Node.js",1,1,0
+285,"TensorFlow, PyTorch, Keras",1,1,0
+286,"SQL, Oracle, Java",3,1,0
+287,"Python, Django, PostgreSQL",3,1,0
+288,"Python, Django, PostgreSQL",3,1,0
+289,"HTML, CSS, JavaScript",2,1,0
+290,"Java, Spring Boot, MySQL",1,1,0
+291,"C++, Ethical Hacking",0,0,1
+292,"Cybersecurity Tools, Ethical Hacking",0,0,1
+293,"Power BI, Tableau",0,0,1
+294,"Big Data Tools, Hadoop",0,0,1
+295,"R, Python",0,0,1
+296,"R, Python",0,0,1
+297,"Ruby, Ruby on Rails, SQLite3",0,0,1
+298,"R, Python",0,0,1
+299,"HTML, CSS, JavaScript",0,0,1
+300,"R, Python",0,0,1
+301,"Matlab, Simulink",0,0,1
+302,"Ruby, Ruby on Rails, SQLite3",0,0,1
+303,"Python, Java",0,0,1
+304,Java,0,0,1
+305,Data science,0,0,1
+306,"Matlab, Simulink",0,0,1
+307,"C++,c,Python",0,0,1
+308,c++,0,0,1
+309,"Java,C++,Digital Logic,FPGA",0,0,1
+310,"Swift, Kotlin",0,0,1
+311,Machine Learning,0,0,1
+312,"R, Python",0,0,1
+313,"CSS,JS,AJS",0,0,1
+314,Machine Learning,0,0,1
+315,"R, Python",0,0,1
+316,"R, Python",0,0,1
+317,Data science,0,0,1
+318,"Python, Java",0,0,1
+319,"R, Python",0,0,1
+320,HTML,0,0,1
+321,"Matlab, Simulink",0,0,1
+322,"Matlab, Simulink",0,0,1
+323,python,0,0,1
+324,Machine Learning,0,0,1
+325,"HTML, CSS, JavaScript",0,0,1
+326,"R, Python",0,0,1
+327,Data science,0,0,1
+328,"Excel, Power BI",0,0,1
+329,"Java, Spring Boot",2,1,0
+330,"MATLAB, Simulink",2,1,0
+331,"Python, Django",2,1,0
+332,"Matlab, Simulink",0,0,1
+333,"C++, Java, MATLAB",2,1,0
+334,"C++, Java, MATLAB",2,1,0
+335,"C++, Java, MATLAB",2,1,0
+336,"C++, Java, MATLAB",2,1,0
+337,"C++, Java, MATLAB",2,1,0
+338,"ArcGIS, QGIS",0,0,1
+339,"Final Cut Pro, Adobe Premiere Pro",0,0,1
+340,"Bloomberg Terminal, Excel",0,0,1
+341,Adobe Creative Suite,0,0,1
+342,"Unity, Unreal Engine",0,0,1
+343,"ArcGIS, QGIS",0,0,1
+344,"Excel, Power BI",0,0,1
+345,"JavaScript, Node.js",1,1,0
+346,"JavaScript, React",1,1,0
+347,"JavaScript, Angular",1,1,0
+348,"JavaScript, Node.js",1,1,0
+349,"SQL, Power BI",0,0,1
+350,"SQL, Oracle, Java",3,1,0
+351,"SQL, Oracle, Java",3,1,0
+352,"SQL, Oracle, Java",3,1,0
+353,"SQL, Oracle, Java",3,1,0
+354,"SQL, Oracle, Java",3,1,0
+355,"Java, Spring, Hibernate",3,1,0
+356,"Java, Spring, Hibernate",2,1,0
+357,"Java, Spring, Hibernate",2,1,0
+358,"Java, Spring, Hibernate",2,1,0
+359,"Java, Spring, Hibernate",2,1,0
+360,"Java, Spring, Hibernate",2,1,0
+361,"Java, Spring, Hibernate",2,1,0
+362,"Java, Spring, Hibernate",2,1,0
+363,"Java, Spring, Hibernate",2,1,0
+364,"Java, Spring, Hibernate",2,1,0
+365,"Java, Spring, Hibernate",2,1,0
+366,"Java, Spring, Hibernate",2,1,0
+367,"Java, Spring, Hibernate",2,1,0
+368,"Java, Spring, Hibernate",2,1,0
+369,"Java, JUnit",0,0,1
+370,"Java, JUnit",0,0,1
+371,"Java, JUnit",0,0,1
+372,"Java, JUnit",0,0,1
+373,"Java, Spring",2,1,0
+374,"Python, Django",1,1,0
+375,"LabVIEW, NI-DAQ",2,1,0
+376,"R, SQL",2,1,0
+377,"Java, Spring Boot",0,0,1
+378,"Oracle, Microsoft SQL Server",0,0,1
+379,"C++, OpenCV",2,1,0
+380,"C++, OpenCV",2,1,0
+381,"C++, OpenCV",2,1,0
+382,"C++, OpenCV",2,1,0
+383,"LabVIEW, NI-DAQ",2,1,0
+384,"C++, OpenCV",2,1,0
+385,"C++, OpenCV",2,1,0
+386,"SAP, Oracle",0,0,1
+387,"WordPress, InDesign",0,0,1
+388,"R, Python",0,0,1
+389,"R, Python",0,0,1
+390,"Oracle, Microsoft SQL Server",0,0,1
+391,"R, Python",0,0,1
+392,"Salesforce, Google Analytics",0,0,1
+393,"Matlab, Simulink",1,1,0
+394,"MATLAB, Simulink",1,1,0
+395,"MATLAB, Simulink",1,1,0
+396,"MATLAB, Simulink",1,1,0
+397,"MATLAB, Simulink",1,1,0
+398,"Matlab, Simulink",1,1,0
+399,"Java, Spring",2,1,0
+400,"Java, Spring",1,1,0
+401,"R, Python",0,0,1
+402,"JavaScript, React, Redux",2,1,0
+403,"JavaScript, React, Redux",5,1,0
+404,"JavaScript, React, Redux",5,1,0
+405,"JavaScript, React, Redux",5,1,0
+406,"JavaScript, React, Redux",4,1,0
+407,"JavaScript, React, Redux",4,1,0
+408,"JavaScript, React, Redux",4,1,0
+409,"JavaScript, React, Redux",4,1,0
+410,"JavaScript, React, Redux",4,1,0
+411,"JavaScript, React, Redux",4,1,0
+412,"JavaScript, React, Redux",4,1,0
+413,"JavaScript, React, Redux, Node.js",4,1,0
+414,"JavaScript, React, Redux, Node.js",4,1,0
+415,"JavaScript, React, Redux, Node.js",4,1,0
+416,"JavaScript, React, Redux, Node.js",4,1,0
+417,"MATLAB, Simulink",1,1,0
+418,"Python, Flask",1,1,0
+419,"Java, Spring",1,1,0
+420,"Python, Flask",1,1,0
+421,"Python, Flask",1,1,0
+422,"Python, Flask",1,1,0
+423,"Python, Flask",1,1,0
+424,"AutoCAD, SolidWorks",0,0,1
+425,"R, Python",0,0,1
+426,"Swift, Kotlin",0,0,1
+427,"Swift, Kotlin",0,0,1
+428,"Adobe Creative Suite, HTML, CSS",0,0,1
+429,"Logic Pro, Ableton Live",0,0,1
+430,"Cisco, Juniper",0,0,1
+431,"Electronic Health Records, Telehealth",0,0,1
+432,"Electronic Health Records, Telehealth",0,0,1
+433,"Electronic Health Records, Telehealth",0,0,1
+434,"R, Python",0,0,1
+435,"Electronic Health Records, Telehealth",0,0,1
+436,"Fortran, NumPy",0,0,1
+437,"LabVIEW, NI-DAQ",1,1,0
+438,"Java, Spring",1,1,0
+439,"LabVIEW, NI-DAQ",1,1,0
+440,"R, SQL",2,1,0
+441,"LabVIEW, MATLAB",0,0,1
+442,"Excel, Power BI",0,0,1
+443,"R, Python",0,0,1
+444,"Social Media Platforms, Mailchimp",0,0,1
+445,"R, Python",0,0,1
+446,"JavaScript, React",2,1,0
+447,"LabVIEW, NI-DAQ",2,1,0
+448,"MATLAB, Simulink",2,1,0
+449,"Java, Spring",1,1,0
+450,"C#, .NET",0,0,1
+451,"Java, C++",0,0,1
+452,"TensorFlow, Keras",2,1,0
+453,"Java, Spring",2,1,0
+454,"TensorFlow, Keras",2,1,0
+455,"TensorFlow, Keras",2,1,0
+456,"TensorFlow, Keras",2,1,0
+457,"MATLAB, Simulink",2,1,0
+458,"TensorFlow, Keras",2,1,0
+459,"Electronic Health Records, Telehealth",0,0,1
+460,"R, Python",0,0,1
+461,"5G, 4G",0,0,1
+462,"Final Cut Pro, Adobe Premiere Pro",0,0,1
+463,"Oculus, HTC Vive",0,0,1
+464,"HTML, CSS, JavaScript",0,0,1
+465,"HTML, CSS, JavaScript",0,0,1
+466,"R, Python",0,0,1
+467,"Clojure, Bigtable",6,1,0
+468,"Python, Torch",6,1,0
+469,"Python, PyTorch",6,1,0
+470,"Python, TensorFlow",6,1,0
+471,"Python, PyTorch",6,1,0
+472,"Go, Gin",5,1,0
+473,"R, Hadoop",5,1,0
+474,"R, Spark",5,1,0
+475,"R, Hadoop",5,1,0
+476,"R, Spark",5,1,0
+477,"JavaScript,HTML/CSS,Frontend Development,Data Visualization",4,1,0
+478,"Java,SQL,Web Development,Database Administration",4,1,0
+479,"JavaScript,HTML/CSS,Frontend Development,Data Visualization",4,1,0

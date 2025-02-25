@@ -1,0 +1,120 @@
+id,Technology,Experience,Eligible,Not_Eligible
+480,"Python,TensorFlow,Deep Learning,Data Visualization",1,1,0
+481,"TensorFlow,R,Data Engineering,Deep Learning",5,1,0
+482,"TensorFlow,R,Data Engineering,Deep Learning",5,1,0
+483,"Java,C++,Digital Logic,FPGA",1,1,0
+484,"Swift,Java,Cloud Computing,Data Management",5,1,0
+485,"Swift,Java,Cloud Computing,Data Management",5,1,0
+486,"Power Electronics,Microgrids,Renewable Energy,Electrical Systems",2,1,0
+487,"Power Electronics,Microgrids,Renewable Energy,Electrical Systems",2,1,0
+488,"Java,SQL,Web Development,Database Administration",2,1,0
+489,"C++, OpenCV, Dlib",7,1,0
+490,"C++, OpenCV, Dlib",7,1,0
+491,"C++, OpenCV, Dlib",7,1,0
+492,"C++, OpenCV, Dlib",7,1,0
+493,"C++, OpenCV, Dlib",7,1,0
+494,"C++, OpenCV, Dlib",7,1,0
+495,"C++, OpenCV, Dlib",7,1,0
+496,"C++, OpenCV, Dlib",7,1,0
+497,"C++, OpenCV, Dlib",7,1,0
+498,"C++, OpenCV, Dlib",7,1,0
+499,"C++, OpenCV, Dlib, Python",7,1,0
+500,"C++, OpenCV, Dlib, Python",7,1,0
+501,"C++, OpenCV, Dlib, Python",7,1,0
+502,"TensorFlow, Keras",4,1,0
+503,"TensorFlow, Keras",4,1,0
+504,"TensorFlow, Keras",4,1,0
+505,"MATLAB, Simulink",4,1,0
+506,"MATLAB, Simulink",4,1,0
+507,"TensorFlow, Keras",4,1,0
+508,"MATLAB, Simulink",4,1,0
+509,"MATLAB, Simulink",4,1,0
+510,"TensorFlow, PyTorch, Keras",1,1,0
+511,"TensorFlow, PyTorch, Keras",1,1,0
+512,"TensorFlow, PyTorch, Keras",1,1,0
+513,"TensorFlow, PyTorch, Keras",1,1,0
+514,"TensorFlow, PyTorch, Keras",1,1,0
+515,"MATLAB, Simulink",4,1,0
+516,"C++, OpenCV",3,1,0
+517,"Java, Spring",4,1,0
+518,"Java, Spring",3,1,0
+519,"Python, Flask",3,1,0
+520,"Java, Spring",3,1,0
+521,"Java, Spring",3,1,0
+522,"C++, OpenCV",3,1,0
+523,"Java, Spring",3,1,0
+524,"Java, Spring",3,1,0
+525,"Python, TensorFlow",3,1,0
+526,"Python, Keras",3,1,0
+527,"Python, Flask",3,1,0
+528,"Python, Scikit-learn",3,1,0
+529,"Python, Flask",3,1,0
+530,"Java, Spring",4,1,0
+531,"C++, OpenCV",3,1,0
+532,"R, SQL",3,1,0
+533,"MATLAB, Simulink",4,1,0
+534,"Python, Django",3,1,0
+535,"Java, React, Node.js",1,1,0
+536,"Java, React, Node.js",1,1,0
+537,"Java, Spring Boot, MySQL",1,1,0
+538,"Java, Spring Boot, MySQL",1,1,0
+539,"Java, React, Node.js",1,1,0
+540,"Java, React, Node.js",1,1,0
+541,"Java, Spring Boot, MySQL",1,1,0
+542,"Java, Spring Boot, MySQL",1,1,0
+543,"R, PowerBI, SQL",5,1,0
+544,"Python, Pandas, NumPy",6,1,0
+545,"R, PowerBI, SQL",6,1,0
+546,"Python, Pandas, NumPy",6,1,0
+547,"R, PowerBI, SQL",5,1,0
+548,"Python, Pandas, NumPy",6,1,0
+549,"R, PowerBI, SQL",5,1,0
+550,"Python, Pandas, NumPy",6,1,0
+551,"Python, NumPy, Pandas",6,1,0
+552,"R, PowerBI, SQL",5,1,0
+553,"R, PowerBI, SQL",5,1,0
+554,"R, PowerBI, SQL",5,1,0
+555,"R, PowerBI, SQL",5,1,0
+556,"R, PowerBI, SQL",5,1,0
+557,"R, PowerBI, SQL",5,1,0
+558,"Python, TensorFlow, Keras, Tableau",5,1,0
+559,"Python, TensorFlow, Keras, Tableau",5,1,0
+560,"Python, TensorFlow, Keras, Tableau",5,1,0
+561,"R, Docker",4,1,0
+562,"R, TensorFlow",4,1,0
+563,"R, Power BI",4,1,0
+564,"R, TensorFlow",4,1,0
+565,"R, SQL",3,1,0
+566,"R, SQL",3,1,0
+567,"C++, OpenCV",3,1,0
+568,"Python, Scikit-learn",3,1,0
+569,"Java, Spring",3,1,0
+570,"R, SQL",3,1,0
+571,"Java, Spring",3,1,0
+572,"Java, Spring",3,1,0
+573,"Java, Spring",3,1,0
+574,"Java, Spring",3,1,0
+575,"R, SQL",3,1,0
+576,"Java, Spring",3,1,0
+577,"Python, Django",3,1,0
+578,"MATLAB, Simulink",4,1,0
+579,"C++, OpenCV",4,1,0
+580,"PyTorch, Scikit-learn",4,1,0
+581,"Python, Django",4,1,0
+582,"Python, Django",4,1,0
+583,"R, SQL",4,1,0
+584,"Python, Django",4,1,0
+585,"R, SQL",4,1,0
+586,"MATLAB, Simulink",4,1,0
+587,"R, SQL",4,1,0
+588,"R, SQL",4,1,0
+589,"C++, ROS",3,1,0
+590,"R, SQL",3,1,0
+591,"C++, OpenCV",4,1,0
+592,"Python, Django",3,1,0
+593,"SAS, SQL",3,1,0
+594,"SAS, SAS Viya",3,1,0
+595,"SAS, SQL",3,1,0
+596,"SAS, SAS Viya",3,1,0
+597,"C++,ROS,Gazebo,Computer Vision",6,1,0
+598,"C++,ROS,Gazebo,Computer Vision",6,1,0
